@@ -13,18 +13,37 @@ Welcome to my GitHub page! I am **Nawoda**, and I am currently finishing my degr
 
 ---
 
-#### 🌱 Things I am currently working on: 
-- Finishing my ICT Degree  
-- Taking online courses about Python programming
+## 👋 About Me
 
----
+🎓 Currently studying for my ICT Degree  
+🌐 Passionate about Networking, Network Security & System Administration  
+💻 Building networking projects and improving my technical skills  
+📚 Learning Python programming and automation for networking  
 
-#### 💪 Things I am challenging myself with:
-- Waking up earlier to make good use of the day  
-- Coding at least 4 hours a day  
-- Exercising 3 days a week  
-- Improving my CV with some education apart from university
+## 🚀 Things I am currently working on:
 
+- 🌐 Building network monitoring and management projects
+- 🔧 Practicing VLANs, Routing, Switching & Network Configuration
+- 🖥️ Working with Cisco Packet Tracer and network simulations
+- 🐍 Learning Python for network automation
+- 📖 Improving my knowledge in Cybersecurity and IT infrastructure
+
+## 💪 Things I am challenging myself with:
+
+- ⏰ Waking up earlier and managing my time better
+- 💻 Practicing networking and coding every day
+- 🛠️ Creating real-world IT projects for my portfolio
+- 📚 Completing networking and technology-related courses
+- 🏋️ Exercising regularly and maintaining a productive routine
+
+## 🛠️ Skills & Tools
+
+- Networking (TCP/IP, VLAN, Routing, Switching)
+- Cisco Packet Tracer
+- Python Programming
+- Linux Basics
+- Git & GitHub
+- Network Troubleshooting
 ---
 
 #### 💻 Programming languages and tools:
